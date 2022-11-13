@@ -18,5 +18,5 @@ Algunas de las herramientas con las que trabajé:
 Les comparto algunos trabajos que realicé en el taller final de JaP:
 
 * [E-Commerce de capacitación](https://japceibal.github.io/e-mercado-TESTING/index.html):
-  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1N8yNB0i-iiIeSOrZ1B7NnnXMR0cu11AC)
   * [ESRE Taller](https://docs.google.com/document/d/1agDhyG1lRxmuP8pyGAe5-b4shAxdR0Iu)
+  * [Casos de Prueba](https://docs.google.com/spreadsheets/d/1N8yNB0i-iiIeSOrZ1B7NnnXMR0cu11AC)
